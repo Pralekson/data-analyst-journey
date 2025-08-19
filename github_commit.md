@@ -19,6 +19,8 @@ cd ~/Desktop/data-analyst-journey
 ls -la
 git status
 git add .
+git commit -m "Добавляю недостающие файлы"
+git push origin main
 
 ## 🎯 Как работает Git:
 
